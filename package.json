@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "REST-API using Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomatosdev/REST-API.git"
+  },
+  "author": "BrunoMatosDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunomatosdev/REST-API/issues"
+  },
+  "homepage": "https://github.com/brunomatosdev/REST-API#readme"
+}
